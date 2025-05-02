@@ -1,0 +1,7 @@
+// This Project need this Following Libraries 
+
+pandas
+requests
+beautifulsoup4
+lxml
+tkinter
